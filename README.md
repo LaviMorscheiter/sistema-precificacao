@@ -29,15 +29,15 @@ Certifique-se de ter o [Python](https://www.python.org/) instalado. O `tkinter` 
 
 1.  **Clone o repositório**
     ```bash
-    git clone [https://github.com/seu-usuario/calculadora-precificacao-gui.git](https://github.com/seu-usuario/calculadora-precificacao-gui.git)
+    git clone (https://github.com/LaviMorscheiter/sistema-precificacao)
     ```
 2.  **Entre na pasta**
     ```bash
-    cd calculadora-precificacao-gui
+    cd sistema-precificacao
     ```
 3.  **Execute a aplicação**
     ```bash
-    python main.py
+    python calc.py
     ```
 
 ## 🗺️ Roadmap (Próximas Atualizações)
